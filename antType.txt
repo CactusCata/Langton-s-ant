@@ -1,0 +1,4 @@
+red:DGGDG
+blue:GGDDG
+green:GGDDD
+yellow:DGDGG
